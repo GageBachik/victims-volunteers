@@ -56,7 +56,7 @@ function startDistasterRelief(){
 
 	formatData(victims, volunteers);
 
-	alert( allVictimData + '\n' + allVolunteerData);
+	alert( allVictimData + '\n \n' + allVolunteerData);
 
 }
 
